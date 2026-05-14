@@ -160,5 +160,3 @@ Se utilizó el método IQR para identificar valores atípicos en:
 
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
-
-GitHub: [https://github.com/ulises-olvera28](https://github.com/ulises-olvera28)
